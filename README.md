@@ -1,6 +1,6 @@
 # 🌍 Terraform Essentials for Devops
 
-Welcome to the **Terraform Learning Path** — your one-stop guide to mastering infrastructure as code (IaC) using **Terraform** by HashiCorp. Whether you're a beginner or someone looking to solidify your Terraform skills for DevOps, Cloud, or SRE roles, this roadmap is structured to help you learn by **concepts + hands-on practice**. 🚀
+Welcome to the **Terraform Learning Path** — my one-stop guide to learn infrastructure as code (IaC) using **Terraform** by HashiCorp. Whether you're a beginner or someone looking to solidify your Terraform skills for DevOps, Cloud, or SRE roles, this roadmap is structured to help you learn by **concepts + hands-on practice**. 🚀
 
 ---
 
@@ -8,12 +8,11 @@ Welcome to the **Terraform Learning Path** — your one-stop guide to mastering 
 
 1. [What is Terraform?](#-what-is-terraform)
 2. [Who is this for?](#-who-is-this-for)
-3. [🛠️ Prerequisites](#-prerequisites)
-4. [📅 Learning Roadmap](#-learning-roadmap)
-5. [💻 Project Ideas](#-project-ideas)
-6. [📘 Resources](#-resources)
-7. [🤝 Contributing](#-contributing)
-8. [📄 License](#-license)
+3. [📅 Learning Roadmap](#-learning-roadmap)
+4. [💻 Project Ideas](#-project-ideas)
+5. [📘 Resources](#-resources)
+6. [🤝 Contributing](#-contributing)
+7. [📄 License](#-license)
 
 ---
 
